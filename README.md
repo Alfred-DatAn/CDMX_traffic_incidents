@@ -1,21 +1,23 @@
 # CDMX_traffic_incidents
 The following proyect presents a traffic incident analysis of the CDMX covering events from 2017 to July 2020.
 
-__SITE__
 
-https://alfred-datan.github.io/CDMX_traffic_incidents/ (not working at 100%)
+__SITE__
+* https://alfred-datan.github.io/CDMX_traffic_incidents/ (not working at 100%)
+
 
 __HTML__
+* index.html
+* analysis.html
+* dangerous.html
+* dangerous-heat.html
 
-index.html
-analysis.html
-dangerous.html
-dangerous-heat.html
 
 __Jupyter notebooks (data processing)__
 
-CDMXTrafficIncidents_dataExploration
-ML_Cluster_DB_SCAN_C5
+* CDMXTrafficIncidents_dataExploration
+* ML_Cluster_DB_SCAN_C5
+
 
 __SOURCES__
 
