@@ -3,7 +3,7 @@ The following proyect presents a traffic incident analysis of the CDMX covering 
 
 
 __SITE__
-* https://alfred-datan.github.io/CDMX_traffic_incidents/ (not working at 100%)
+* https://cdmx-c5.herokuapp.com/home.html
 
 
 __HTML__
